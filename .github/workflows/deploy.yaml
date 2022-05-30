@@ -10,4 +10,4 @@ jobs:
       - run: npm install gh-pages
       - run: npm run build
       - run: cd dist
-      - run: gh-pages -d 
+      - run: gh-pages -d build
