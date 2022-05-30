@@ -1,10 +1,11 @@
 name: Deploy Galaxy made with ThreeJS
 on: [push]
 jobs:
-  runs-on: ubuntu-latest
-  steps: 
-    - run: npm i
-    - run: npm install gh-pages
-    - run: npm run build
-    - run: cd dist
-    - run: gh-pages -d 
+  deploy:
+    runs-on: ubuntu-latest
+    steps: 
+      - run: npm i
+      - run: npm install gh-pages
+      - run: npm run build
+      - run: cd dist
+      - run: gh-pages -d 
