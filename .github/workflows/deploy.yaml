@@ -4,6 +4,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps: 
+      - run: apt install nodejs
       - run: npm i
       - run: npm install gh-pages
       - run: npm run build
