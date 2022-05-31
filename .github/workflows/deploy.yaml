@@ -1,0 +1,16 @@
+name: Deploy Galaxy made with ThreeJS
+on: [push]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/setup-node@v3.2.0
+      - uses: actions/checkout@v2
+      - run: npm i
+      - run: npm install gh-pages
+      - run: npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+            personal_token: ${{ secrets.GARBAGE }}
+            publish_dir: ./dist
