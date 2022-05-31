@@ -34,7 +34,7 @@ let points=null
  * Galaxy Generator
  */
 const parameters = {}
-parameters.count=10000
+parameters.count=100000
 parameters.size=0.02
 parameters.radius=3
 parameters.branches=3
@@ -122,7 +122,7 @@ scene.add(points)
  * Tweaks
  */
 gui.add(parameters,'size',0.01,1,0.001).onFinishChange(generateGalaxy)
-gui.add(parameters,'count',100,100000,50).onFinishChange(generateGalaxy)
+gui.add(parameters,'count',100,1000000,50).onFinishChange(generateGalaxy)
 gui.add(parameters,'radius',2,8,0.5).onFinishChange(generateGalaxy)
 gui.add(parameters,'branches',3,20,1).onFinishChange(generateGalaxy)
 gui.add(parameters,'spin',-5,5,0.001).onFinishChange(generateGalaxy)
