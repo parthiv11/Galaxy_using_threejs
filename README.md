@@ -19,15 +19,15 @@
 ## Here is a Debug panel 
 <img src="https://user-images.githubusercontent.com/75653580/171162619-98ab31d2-c359-42a0-8282-dac6ee1b68e6.jpg" height= 358>
 
-- size: Size of star
-- count: Number of stars
-- radius: Radius of Galaxy
-- branches: Number of branches coming out from center of Galaxy
-- spin: How much Galaxy branch should be curved (Rounded)
-- randomness: Randomness of star in Galaxy
-- randomnessPower: How closely stars should be bound at branch of Galaxy
-- insideColor: Color of Center of Galaxy
-- outsideColor: Color of outside of Galaxy
+- **size**: Size of star
+- **count**: Number of stars
+- **radius**: Radius of Galaxy
+- **branches**: Number of branches coming out from center of Galaxy
+- **spin**: How much Galaxy branch should be curved (Rounded)
+- **randomness**: Randomness of star in Galaxy
+- **randomnessPower**: How closely stars should be bound at branch of Galaxy
+- **insideColor**: Color of Center of Galaxy
+- **outsideColor**: Color of outside of Galaxy
 
 # Visit Here to This [website](https://parthiv11.github.io/Galaxy_using_threejs/)
 
