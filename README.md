@@ -1,10 +1,10 @@
 # Three.js Galaxy 
 
-## This is My a Simple Particle System stimulation i have created using in Three.js
+## This is My a Simple Particle System stimulation I have created using in Three.js
 
 
-**This Are some Images To feel you**
-## You can view in 3d (from any side)
+**This Are Some Images for you to feel it**
+## You can view in 3D (from any side)
 <img src="https://user-images.githubusercontent.com/75653580/171162588-f41bb635-843a-4d4d-9ad5-5d94bcc3a784.jpg" height=350>
 
 ## Amazing To See this pictures 
