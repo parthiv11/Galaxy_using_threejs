@@ -7,13 +7,13 @@
 ## You can view in 3D (from any side)
 <img src="https://user-images.githubusercontent.com/75653580/171162588-f41bb635-843a-4d4d-9ad5-5d94bcc3a784.jpg" height=350>
 
-## Amazing To See this pictures 
+## Amazing  Pictures 
 <img src="https://user-images.githubusercontent.com/75653580/171162622-21a2f050-37e9-4bd4-9e23-2d3752ae738c.jpg" height= 358>
 
- ## - It is Change color 
+ ## You can Change color 
 <img src="https://user-images.githubusercontent.com/75653580/171162616-bd6d095c-49e3-4e0f-8fb7-c43aceae0644.jpg" height= 358>
 
-## SHAPE of star are hearts (To be made customizable)
+## SHAPE of Particles are hearts (To be made customizable)
 <img src="https://user-images.githubusercontent.com/75653580/171162598-d82ffbec-b187-42b1-8a2f-081c490ce761.jpg" height= 358>
 
 ## Here is a Debug panel 
